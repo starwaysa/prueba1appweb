@@ -1,6 +1,6 @@
 {
     "name": "Quick - Control Horario",
-    "short_name": "Quick",
+    "short_name": "Marcacion",
     "description": "Aplicación para el control horario de masajistas y validación GPS.",
     "start_url": "./index.html",
     "display": "standalone",
@@ -16,7 +16,7 @@
         },
         {
             "src": "./images/icon-512x512.png",
-            "sizes": "512x512",
+            "sizes": "1080x1920",
             "type": "image/png",
             "purpose": "any maskable"
         }
